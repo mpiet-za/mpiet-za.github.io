@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.example.com/in/example/">LinkedIn</a> 
   <br><br>
   <a href="https://www.example.com/">
-   <img alt="Twitter" src="https://www.shareicon.net/data/64x64/2015/08/29/92513_twitter_64x64.png"
+   <img alt="Twitter" src="https://www.shareicon.net/data/64x64/2015/08/29/92513_twitter_512x512.png"
    width=64" height="64">
   </a>
 theme: jekyll-theme-minimal
