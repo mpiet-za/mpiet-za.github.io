@@ -4,15 +4,15 @@
 
 ### UI Designs 
 
-[Project 1 Title](/sample_page)
+[Project 1](/sample_page)
 <img src="images/abstract-1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2](/pdf/sample_presentation.pdf)
 <img src="images/abstract-2.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3](http://example.com/)
 <img src="images/abstract-3.png?raw=true"/>
 
 ---
