@@ -1,11 +1,13 @@
 title: Matthew Pieterse # your name (or website title) here
 logo: "/images/ca6c7b9f0d8b4e5562745c9e3fa378ff633d2b9af279a2526a7a075d9e0d0dc5.0.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi, welcome to my personal portfolio!
   <br><br>
-  Second description 
+  South Africa
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">LinkedIn</a> 
-  
+  <a href="https://www.example.com/">Github</a> 
+  <a href="https://www.example.com/">Twitter</a> 
+  <a href="https://www.example.com/">Instagram</a> 
+    <a href="https://www.linkedin.com/in/example/">LinkedIn</a> 
 theme: jekyll-theme-minimal
 google_analytics: G-QBQ4MREBWG # your Google Analytics tracking ID here
