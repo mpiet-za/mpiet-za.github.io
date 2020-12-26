@@ -1,4 +1,4 @@
-## Portfolio
+## MY PORTFOLIO
 
 ---
 
@@ -8,11 +8,11 @@
 <img src="images/abstract-1.png?raw=true"/>
 
 ---
-[Project 2](/pdf/sample_presentation.pdf)
+[Project 2](/sample_page)
 <img src="images/abstract-2.png?raw=true"/>
 
 ---
-[Project 3](http://example.com/)
+[Project 3](/sample_page)
 <img src="images/abstract-3.png?raw=true"/>
 
 ---
