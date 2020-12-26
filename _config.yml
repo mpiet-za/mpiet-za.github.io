@@ -11,8 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
    <img alt="Twitter" src="https://www.shareicon.net/data/64x64/2015/08/29/92513_twitter_512x512.png"
    width=48" height="48">
   </a>
-    <a href="https://www.example.com/">
-   <img alt="Twitter" src="https://simpleicons.org/icons/twitter.svg"
+  <a href="https://www.example.com/">
+   <img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter-squared.png"
    width=48" height="48">
   </a>
 theme: jekyll-theme-minimal
