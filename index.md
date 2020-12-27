@@ -1,9 +1,6 @@
 ## MY PORTFOLIO
 
 ---
-
-### UI Designs 
-
 [Lorem Ipsum](/sample_page)
 <img src="images/abstract-1.png?raw=true"/>
 
