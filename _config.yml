@@ -32,7 +32,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="mailto:jsmith@example.com">Email</a>
    • 
-  <a href="tel:5550000000000000000">Email</a>
+  <a href="tel:5550000000000000000">Phone</a>
    • 
   <a download="/pdf/sample_presentation.pdf">CV & Resume</a> 
 theme: jekyll-theme-minimal
