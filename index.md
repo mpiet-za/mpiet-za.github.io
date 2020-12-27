@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Hire me on <a href="https://www.fiverr.com/mpiet_za?up_rollout=true">fiverr</a></p>
+<p style="font-size:11px">Visit my <a href="https://www.fiverr.com/mpiet_za?up_rollout=true">fiverr</a></p> profile
 <!-- Remove above link if you don't want to attibute -->
