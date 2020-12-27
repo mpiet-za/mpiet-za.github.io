@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
    width=48" height="48">
   </a>
   <a href="https://www.example.com/">
-   <img alt="Dribble" rc="https://img.icons8.com/color/50/000000/dribbble.png"
+   <img alt="Dribble" src="https://img.icons8.com/color/50/000000/dribbble.png"
    width=48" height="48">
   </a>
   <a href="https://www.example.com/">
