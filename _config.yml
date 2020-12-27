@@ -9,7 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   KZN, South Africa 🇿🇦
   <br><br>
-  
   <a href="https://www.example.com/">
    <img alt="Linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png"
    width=48" height="48">
@@ -34,7 +33,6 @@ description: > # your text below (remove <br> elements if you don't need line br
    <img alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram.png"
    width=48" height="48">
   </a>
-  
   <br><br>
   <a href="" download="/pdf/sample_presentation.pdf">CV & Resume</a> 
 theme: jekyll-theme-minimal
