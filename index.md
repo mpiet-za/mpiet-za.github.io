@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">You can now hire me on <a href="https://www.fiverr.com/mpiet_za?up_rollout=true">fiverr</a></p>.
 <!-- Remove above link if you don't want to attibute -->
